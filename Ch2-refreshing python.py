@@ -1,5 +1,5 @@
 """
-Refreshing different operations in Python
+Ch. 2: Refreshing different operations in Python
 """
 
 # Division goes from left to right
