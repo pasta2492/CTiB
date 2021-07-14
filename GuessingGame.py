@@ -1,4 +1,5 @@
-# Ch3
+""" Ch3: The Guessing Game
+"""
 from random import randint
 def input_integer(prompt):
 	while True: # While not zero and not null
